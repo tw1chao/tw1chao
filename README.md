@@ -19,13 +19,11 @@ I'm passionate Electronic Engineer from taiwan 🇹🇼
 - 📫 How to reach me: yingchao.tw@gmail.com.
 
 <br/>
-<br/>
 
 ### <b>Connect with me</b>
 [<img align="left" alt="HackMD" width="100" src="./assets/HackMD.png" />](https://hackmd.io/@YingChao)
-[<img align="left" alt="LinkedIn" width="80" src="./assets/linkedin.png" />](www.linkedin.com/in/tw1chao)
+[<img align="left" alt="LinkedIn" width="80" src="./assets/linkedin.png" />](https://www.linkedin.com/in/tw1chao)
 
-<br/>
 <br/>
 
 ### <b>Languages and Tools: </b>
@@ -38,7 +36,6 @@ I'm passionate Electronic Engineer from taiwan 🇹🇼
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <br/>
-<br/>
 
 | <a href="https://github.com/tw1chao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tw1chao&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/tw1chao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tw1chao&layout=compact&theme=onedark&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -48,12 +45,10 @@ I'm passionate Electronic Engineer from taiwan 🇹🇼
 <a href="https://github.com/tw1chao/STUST-thesis-template">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tw1chao&repo=STUST-thesis-template&theme=onedark" />
 </a>
-
 <a href="https://github.com/tw1chao/STLinkV3_Adapter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tw1chao&repo=STLinkV3_Adapter&theme=onedark" />
 </a>
 
-<br/>
 <br/>
 
 <a href="https://twitter.com/tw1chao">
