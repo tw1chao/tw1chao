@@ -1,35 +1,35 @@
-### 🚀 Welcome to TW1CHAO
+### 🚀 歡迎到 tw1chao
 
 <br />
 
 [English](./README.md)。[繁體中文](./README_zhTW.md)
 <br />
 
-I'm passionate Electronic Engineer from taiwan 🇹🇼
+我是電子工程師，來自台灣🇹🇼
 
-**Here is some personal information about me**
+**關於我**
 
-- 🔭 I'm Taiwanese and currently working in Tainan.
+- 🔭 我是台灣人，目前居住台南。
 
-- ⚡ I am trilingual - Taiwanese 🇹🇼, Chinese 🇨🇳, and  Japanese 🇯🇵
+- ⚡ 我所使用的語言 - 台語 🇹🇼, 華語 🇨🇳, and  日本語 🇯🇵
 
-- 💼 Electronic Engineer at [DunEtek](https://www.dunetek.com.tw/)
+- 💼 目前在敦玉科技擔任電子工程師 [DunEtek](https://www.dunetek.com.tw/)
 
-- ❤️ I love Design Schematic, and building fun firmware on PCB
+- ❤️ 樂於電路設計，並使用韌體控制電路板
 
-- 💬 Ask me about anything [here](https://github.com/tw1chao/tw1chao/issues) give me a issue/pr
+- 💬 詢問我 [這裡]](https://github.com/tw1chao/tw1chao/issues) 給我一個問題/回饋
 
-- 📫 How to reach me: yingchao.tw@gmail.com.
+- 📫 與我聯絡 : yingchao.tw@gmail.com.
 
 <br/>
 
-### <b>Connect with me</b>
+### <b> 聯絡我 </b>
 [<img align="left" alt="HackMD" width="100" src="./assets/HackMD.png" />](https://hackmd.io/@YingChao)
 [<img align="left" alt="LinkedIn" width="80" src="./assets/linkedin.png" />](https://www.linkedin.com/in/tw1chao)
 
 <br/>
 
-### <b>Languages and Tools: </b>
+### <b>語言與工具: </b>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
@@ -43,7 +43,7 @@ I'm passionate Electronic Engineer from taiwan 🇹🇼
 | <a href="https://github.com/tw1chao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tw1chao&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/tw1chao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tw1chao&layout=compact&theme=onedark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
+#### 釘選倉庫
 
 <a href="https://github.com/tw1chao/STUST-thesis-template">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tw1chao&repo=STUST-thesis-template&theme=onedark" />
