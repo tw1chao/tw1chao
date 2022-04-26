@@ -13,7 +13,7 @@ I'm passionate Electronic Engineer from taiwan 🇹🇼
 
 - ⚡ I am trilingual - Taiwanese 🇹🇼, Chinese 🇨🇳, and  Japanese 🇯🇵
 
-- 💼 Electronic Engineer at [DunEtek](https://www.dunetek.com.tw/)
+- 💼 Electronic Engineer
 
 - ❤️ I love Design Schematic, and building fun firmware on PCB
 
