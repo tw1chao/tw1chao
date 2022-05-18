@@ -40,30 +40,4 @@ I'm passionate Electronic Engineer from taiwan 🇹🇼
 
 <br/>
 
-| <a href="https://github.com/tw1chao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tw1chao&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/tw1chao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tw1chao&layout=compact&theme=onedark&hide_border=true" /></a> |
-| ------------- | ------------- |
 
-#### Top Repositories
-
-<a href="https://github.com/tw1chao/STUST-thesis-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tw1chao&repo=STUST-thesis-template&theme=onedark" />
-</a>
-<a href="https://github.com/tw1chao/STLinkV3_Adapter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tw1chao&repo=STLinkV3_Adapter&theme=onedark" />
-</a>
-
-<br/>
-<br/>
-<br/>
-
-<a href="https://twitter.com/tw1chao">
-  <img align="right" alt="YingChao, Chen | Twitter" width="21px" src="./assets/twitter.svg" />
-</a>
-
-<a href="https://discord.gg/gTXtyvWuWt">
-  <img align="right" alt="yingchao, chen | Discord" width="20px" src="./assets/discord.svg" />
-</a>
-
-<a href="https://www.instagram.com/yingchao.tw/">
-  <img align="right" alt="yingchao.tw | Instagram" width="20px" src="./assets/instagram.svg" />
-</a>
